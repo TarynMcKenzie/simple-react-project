@@ -1,43 +1,41 @@
-
 /* NAVIGATION */
-.nav{
-    display: block;
-    width: 100%;
-    font-size: 1.6rem;
-    margin-bottom: 8rem;
-    padding: 1rem;
+.nav {
+  display: block;
+  width: 100%;
+  font-size: 1.6rem;
+  margin-bottom: 8rem;
+  padding: 1rem;
 }
 
-.nav_list{
-    list-style: none;
+.nav_list {
+  list-style: none;
 }
 
-.nav_list-item{
-    display: inline-block;
-    width: 10%;
+.nav_list-item {
+  display: inline-block;
+  width: 10%;
 }
 
 .nav_link {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
-
 
 /* MAIN HEADER */
-.main_header-section{
-    padding: 1rem;
+.main_header-section {
+  padding: 1rem;
 }
 
-.main_header{
-    display: block; /* make span a block level element (takes up the full width of its container) */
-    font-size: 6rem; /* ((60px)) */
-    font-weight: 700;
-    letter-spacing: 2rem; /* ((20px)) */
-    text-transform: uppercase;
+.main_header {
+  display: block; /* make span a block level element (takes up the full width of its container) */
+  font-size: 6rem; /* ((60px)) */
+  font-weight: 700;
+  letter-spacing: 2rem; /* ((20px)) */
+  text-transform: uppercase;
 }
 
-.main_header-content{
-    display: block; /* make span a block level element (takes up the full width of its container) */
-    font-size: 2.5rem;
-    font-weight: 400;
+.main_header-content {
+  display: block; /* make span a block level element (takes up the full width of its container) */
+  font-size: 2.5rem;
+  font-weight: 400;
 }

@@ -1,9 +1,9 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
 //======= Components =======
-import Nav from './components/nav';
-import Mheader from './components/main-header';
+import Nav from "./components/nav";
+import Mheader from "./components/main-header";
 
 function App() {
   return (
