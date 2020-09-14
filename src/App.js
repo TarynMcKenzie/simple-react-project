@@ -3,12 +3,13 @@ import './App.css';
 
 //======= Components =======
 import Nav from './components/nav';
+import Mheader from './components/main-header';
 
 function App() {
   return (
     <div className="App">
       <Nav />
-      <h1>Hello React</h1>
+      <Mheader />
     </div>
   );
 }
