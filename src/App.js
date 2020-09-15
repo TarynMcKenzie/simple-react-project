@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import "./App.css";
 
 import { ThemeProvider } from "styled-components";
-import { GlobalStyles } from "./globalStyles";
-import { lightTheme, darkTheme } from "./Themes";
+import { GlobalStyles } from "./components/globalStyles";
+import { lightTheme, darkTheme } from "./components/Themes";
 
 //======= Components =======
 import Nav from "./components/nav";
